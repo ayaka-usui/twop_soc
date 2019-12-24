@@ -1,2 +1,2 @@
 # twop_soc
-Codes of a paper, "Spin-orbit coupling in the presence of strong atomic correlations"
+All of the code for a recently submitted paper, "Spin-orbit coupling in the presence of strong atomic correlations"
